@@ -1,4 +1,4 @@
-#The Many Failings of The Minecraft Launcher
+# The Many Failings of The Minecraft Launcher
 
 I love playing video games. I used to play hours upon hours when I was younger. I would procrastinate on homework in favor of playing a shiny new game I bought for my PC. But there was one game that I always went back to, Minecraft. While I am not going to describe this game as that isn't my focus today, just know that it is the most sold game in the world, followed by Tetris. I personally use Prism Launcher for all my Minecraft needs, but I wanted to take another look at the default launcher.
 
