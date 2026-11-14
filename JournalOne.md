@@ -5,4 +5,4 @@ I love playing video games. I used to play hours upon hours when I was younger. 
 What is a launcher? Simply put, it is an application used to boot up a game or service for you. Popular examples being Steam, Battle.net, and the Epic Games Launcher. Minecraft naturally has its own. Personally, I use game launcher to manage game versions, game files, and even mods (modifications) to the game I am playing.
 
 Lets do a simple scenario with the Minecraft Launcher. I will assume you are already have the launcher download and signed in with your Minecraft account and you just want to play casually. Open up the application, which takes 18 seconds to load, click on the appropriate game, then click play. Simple. That is the **Mental Model** that I had and it matched with the **Conceptional Model** of the application.
-[assets/Screenshot 2026-11-13 161044.png](Screenshot of the Minecraft Launcher set to Bedrock Edition)
+![assets/Screenshot 2026-11-13 161044.png](Screenshot of the Minecraft Launcher set to Bedrock Edition)
